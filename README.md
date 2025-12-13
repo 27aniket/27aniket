@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 MERN Stack Developer with 2 years of experience<br><br>🚀 Skilled in building scalable web & SaaS-based applications<br><br>⚛️ Frontend expertise in React.js, creating responsive and interactive UIs<br><br>🧠 Backend development using Node.js & Express.js with RESTful APIs<br><br>🗄️ Experience working with MongoDB for efficient data handling<br><br>🧩 Strong focus on clean, maintainable, and reusable code<br><br>⚡ Performance optimization and debugging for better user experience<br><br>🤝 Comfortable collaborating with teams and following best development practices<br><br>📈 Always learning and exploring new technologies
+👨‍💻 MERN Stack Developer with 2 years of experience<br><br>🚀 Skilled in building scalable web & SaaS-based applications<br>⚛️ Frontend expertise in React.js, creating responsive and interactive UIs<br><br>🧠 Backend development using Node.js & Express.js with RESTful APIs<br><br>🗄️ Experience working with MongoDB for efficient data handling<br><br>🧩 Strong focus on clean, maintainable, and reusable code<br><br>⚡ Performance optimization and debugging for better user experience<br><br>🤝 Comfortable collaborating with teams and following best development practices<br><br>📈 Always learning and exploring new technologies
 
 
 ## 🌐 Socials:
